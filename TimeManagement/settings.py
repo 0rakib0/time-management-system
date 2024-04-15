@@ -130,6 +130,8 @@ MEDIA_URL = '/media/'
 MEDIA_ROOT = MEDIA_DIR
 
 
+LOGIN_URL = '/Login/'
+
 
 
 # Default primary key field type
